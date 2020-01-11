@@ -1,3 +1,7 @@
+> Multiple Inserts and Transactions in Objection Js
+
+Blog Post: https://blog.eperedo.com/2020/01/11/objection-js-transactions/
+
 ### Install dependencies
 
 ```bash
